@@ -1,0 +1,12 @@
+RA 102/2015 Marina Gavric
+file	sum
+video-0.avi	-25
+video-1.avi	-33
+video-2.avi	-5
+video-3.avi	-58
+video-4.avi	-8
+video-5.avi	13
+video-6.avi	-64
+video-7.avi	19
+video-8.avi	-5
+video-9.avi	15
